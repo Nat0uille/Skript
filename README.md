@@ -6,12 +6,12 @@ Ici tu peux trouver de quoi ajouter a ton plugin minecraft **Skript**
 Pour le moment, il y'a pas beaucoup de Skript mais pas grave !
 
 
-1. Spawn
+1. Spawn |
     Un skript de Spawn avec un /setspawn avec une permission !
 [Voir code](https://github.com/Nat0uille/Skript/blob/main/Skript/spawn.sk) | 
 [Télecharger](https://github.com/Nat0uille/Skript/releases/download/spawn/spawn.sk)
 
-2. Onjoin
+2. Onjoin |
     Un skript pour faire apparaitre un message ou autre rejoins le serveur !
 [Voir code](https://github.com/Nat0uille/Skript/blob/main/Skript/onjoin.sk) |
 [Télecharger](https://github.com/Nat0uille/Skript/releases/download/spawn/onjoin.sk)
