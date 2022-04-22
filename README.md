@@ -13,4 +13,5 @@ Pour le moment, il y'a pas beaucoup de Skript mais pas grave !
 
 2. Onjoin
     Un skript pour faire apparaitre un message ou autre !
-[Voir code](https://github.com/Nat0uille/Skript/blob/main/Skript/onjoin.sk)
+[Voir code](https://github.com/Nat0uille/Skript/blob/main/Skript/onjoin.sk) |
+[Télecharger](https://github.com/Nat0uille/Skript/releases/download/spawn/onjoin.sk)
