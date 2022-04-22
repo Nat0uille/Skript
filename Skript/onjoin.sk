@@ -1,0 +1,9 @@
+on join:
+    send "+---------------***---------------+"
+    send "&r"
+    send "&3Bienvenue %player% !"
+    send "&1Discord : https://dsc.gg/nat0uille"
+    send "&5Twitch :https://twitch.tv/nat0uille"
+    send "&r"
+    send "+---------------***---------------+"
+    make console execute command "/gamemode 2 %player%" #gamemode du joueur quand il join le serveur : 0 pour survie | 1 pour creatif | 2 pour aventure | 3 pour spectateur
