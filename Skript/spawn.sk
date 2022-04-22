@@ -1,0 +1,14 @@
+command /spawn:
+    description : Teleportation au spawn 
+    trigger:
+        teleport player to {spawn.spawn}
+        send "&6&lSpawn &r->&6 Téléportation au spawn effectué !"
+
+
+command /setspawn:
+    trigger:
+        if player has permission "spawn.set":
+            set {spawn.spawn} to player's location
+            send "&6&lSpawn &r->&6 Le spawn est maintenant a vos coordonnées !"
+        else:
+            send "&cDésolé mais tu as pas la permission !"
