@@ -10,3 +10,7 @@ Pour le moment, il y'a pas beaucoup de Skript mais pas grave !
     Un skript de Spawn avec un /setspawn avec une permission !
 [Voir code](https://github.com/Nat0uille/Skript/blob/main/Skript/spawn.sk) | 
 [Télecharger](https://github.com/Nat0uille/Skript/releases/download/spawn/spawn.sk)
+
+2. Onjoin
+    Un skript pour faire apparaitre un message ou autre !
+[Voir code](https://github.com/Nat0uille/Skript/blob/main/Skript/onjoin.sk)
